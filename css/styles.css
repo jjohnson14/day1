@@ -1,0 +1,33 @@
+body {
+	height:100%;
+	margin:0;
+}
+header {
+	background-color:#33CC33;
+	padding:25px;
+}
+nav {
+	background-color:#000099;
+	padding:25px;
+}
+div {
+	background-color:#FFFF00;
+	height:100%;
+	padding:100px;
+}
+main {
+	background-color:#FF0000;
+	padding:200px 346px;
+	float:left;
+}
+article {
+	background-color:#33CCFF;
+	padding:200px 154px;
+	float:left;
+	position:relative;
+}
+footer {
+	background-color:#C2D6D6;
+	padding:25px;
+	display:block;
+}
